@@ -1,0 +1,17 @@
+.navbar{
+	background-color: white;
+}
+
+main {
+    /* margin-top: -70px;  */
+    margin-bottom: 100px;
+  }
+
+.jumbotron.jumbotron-fluid{
+ background: white;
+}
+.jumbotron.jumbotron-fluid img{
+ background: white;
+ width:100%;
+ /* margin-top: 50px; */
+}
