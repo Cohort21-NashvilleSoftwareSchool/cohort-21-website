@@ -63,7 +63,7 @@ main {
 }
 
 .jumbotron.jumbotron-fluid.sm-width{
-    width: 85%;
+    /* width: 85%; */
 }
 .technos{
     margin-top: -55px;
