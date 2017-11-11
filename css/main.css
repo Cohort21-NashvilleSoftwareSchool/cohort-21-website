@@ -30,11 +30,11 @@ html, body {
 
 .jumbotron.jumbotron-fluid{
     background: white;
-    margin-top: 10px;
    }
 .jumbotron.jumbotron-fluid img{
     background: white;
     width:100%;
+    margin-top: -250px;
    }
 
 main {
@@ -47,6 +47,15 @@ main {
 .row{
     justify-content: center;
 }
+<<<<<<< HEAD
+=======
+
+.navbar-collapse{
+    justify-content: flex-end;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+>>>>>>> master
 
 .col-sm-3{
     border: 1px solid lightgray;
