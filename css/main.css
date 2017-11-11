@@ -136,6 +136,10 @@ main {
 
 
 @media (max-width: 600px) {
+
+    body {
+        background: url("../assets/images/bg.jpg") repeat;
+    }
     .jumbotron.jumbotron-fluid img{
         background: white;
         margin-top:30px;
