@@ -40,7 +40,7 @@ html, body {
 main {
     margin-bottom: 20px;
     margin-top: -30px;
-    width: 118%;
+    width: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
   }
