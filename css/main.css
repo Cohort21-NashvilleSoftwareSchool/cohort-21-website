@@ -3,6 +3,11 @@ html, body {
     overflow-x: hidden;
 }
 
+blockquote{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
 .navbar{
     background-color: rgb(55, 55, 56);
 }
@@ -12,12 +17,15 @@ html, body {
 
 #jumbheader{
     box-shadow: 5px 5px 2px lightgray;
+    background-color: #F15D22!important;
 }
 .header-text{
     margin: 0 auto;
     padding-top: 10px;
     font-weight: bold;
     height: 50px;
+    color: white;
+
 }
 
 .logo{
@@ -106,12 +114,13 @@ main {
 .techs{
     width: 80px;
     margin: 20px;
-    /* margin-top: -50px; */
   }
 
-.navbar.fixed-bottom.navbar-light.bg-light{
+.navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
+    background: black!important;
+    color: white;
 
 }
 
