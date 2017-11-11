@@ -40,10 +40,13 @@ html, body {
 main {
     margin-bottom: 20px;
     margin-top: -30px;
-    width: 118%;
+    width: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
   }
+.row{
+    justify-content: center;
+}
 
 .col-sm-3{
     border: 1px solid lightgray;
@@ -51,7 +54,6 @@ main {
     box-shadow: 2px 2px 2px lightgray;
     margin: 10px;
     margin-bottom: 25px;
-    justify-content: center;
 }
 
 .col-sm-3.technologies{
@@ -59,13 +61,9 @@ main {
     border-radius: none;
     box-shadow: none;
 }
-
-.jumbotron.jumbotron-fluid.sm-width{
-    width: 85%;
-}
 .technos{
     margin-top: -55px;
-    /* margin-bottom: 20px; */
+
 }
 
 .no-gutters {
