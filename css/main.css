@@ -62,9 +62,6 @@ main {
     font-weight: bold;
     text-transform: uppercase;
 }
-.col-sm-3.cohortMems{
-    background: white;
-}
 
 .col-sm-3.cohortMems{
     border: 1px solid lightgray;
@@ -72,6 +69,7 @@ main {
     box-shadow: 2px 2px 2px lightgray;
     margin: 10px;
     margin-bottom: 25px;
+    background: white;
 }
 
 .col-sm-3.technologies{
