@@ -49,32 +49,36 @@
 			"image": "assets/images/techs/handlebars.png"
         },
         {
-			"name": "firebase",
+			"name": "Firebase",
 			"image": "assets/images/techs/firebase.png"
         },
         {
-			"name": "materialize",
+			"name": "Materialize",
 			"image": "assets/images/techs/materialize.png"
         },
         {
-			"name": "npm",
+			"name": "NPM",
 			"image": "assets/images/techs/npm.png"
         },
         {
-			"name": "ruby",
+			"name": "Ruby",
 			"image": "assets/images/techs/ruby.png"
         },
         {
-			"name": "rails",
-			"image": "assets/images/techs/rails.png"
+			"name": "Rails",
+			"image": "assets/images/techs/rails.jpg"
         },
         {
-			"name": "sqlite",
+			"name": "SQLite3",
 			"image": "assets/images/techs/sqlite.png"
         },
         {
-			"name": "mysql",
+			"name": "MySQL",
 			"image": "assets/images/techs/mysql.png"
+		},
+        {
+			"name": "Visual Studio Code",
+			"image": "assets/images/techs/vsc.jpg"
 		}
 	]
 }
