@@ -1,6 +1,7 @@
 html, body {
     max-width: 100%;
     overflow-x: hidden;
+    background: url("../assets/images/bg.jpg") fixed no-repeat;
 }
 
 blockquote{
@@ -37,10 +38,10 @@ blockquote{
 }
 
 .jumbotron.jumbotron-fluid{
-    background: white;
+    background: none;
    }
 .jumbotron.jumbotron-fluid img{
-    background: white;
+    background: none;
     width:100%;
     margin-top: -240px;
    }
@@ -61,8 +62,11 @@ main {
     font-weight: bold;
     text-transform: uppercase;
 }
+.col-sm-3.cohortMems{
+    background: white;
+}
 
-.col-sm-3{
+.col-sm-3.cohortMems{
     border: 1px solid lightgray;
     border-radius:10px;
     box-shadow: 2px 2px 2px lightgray;
@@ -75,9 +79,15 @@ main {
     border-radius: none;
     box-shadow: none;
 }
-.technos{
+.technos, .words{
     margin-top: -55px;
+    background: white;
+    padding:20px;
+    border-radius: 10px;
+}
 
+.words{
+    padding:50px;
 }
 
 .no-gutters {

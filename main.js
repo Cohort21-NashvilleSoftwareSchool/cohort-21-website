@@ -12,7 +12,7 @@ $.ajax({
 function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
-    document.getElementById("cohort").innerHTML += `<div class="col-sm-3">
+    document.getElementById("cohort").innerHTML += `<div class="col-sm-3 cohortMems">
           <img class="card-img-top" src="${item.proimg}" alt="${item.fname} ${item.lname}">
           <div class="card-body">
             <h4 class="card-title">${item.fname} ${item.lname}</h4>
