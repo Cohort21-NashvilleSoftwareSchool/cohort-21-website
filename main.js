@@ -3,15 +3,15 @@
 console.log("main.js, YO");
 
 $.ajax({
-  url: "data/cohort.json"
-}).done(cohortMembers)
-  .fail(function(error){
+    url: "data/cohort.json"
+  }).done(cohortMembers)
+  .fail(function (error) {
     console.log("error", error);
   });
 
-function cohortMembers(list){
+function cohortMembers(list) {
   let data = list.cohort;
-  data.forEach(function(item){
+  data.forEach(function (item) {
     document.getElementById("cohort").innerHTML += `<div class="col-sm-3">
           <img class="card-img-top" src="${item.proimg}" alt="${item.fname} ${item.lname}">
           <div class="card-body">
@@ -45,25 +45,25 @@ function cohortMembers(list){
           </div>
         </div>
       </div>`;
-    
+
   });
 };
 
 $.ajax({
-  url: "data/techs.json"
-}).done(techs)
-  .fail(function(error){
+    url: "data/techs.json"
+  }).done(techs)
+  .fail(function (error) {
     console.log("error", error);
   });
 
-function techs(list){
+function techs(list) {
   let data = list.techs;
-  data.forEach(function(item){
-    document.getElementById("techs").innerHTML += 
+  data.forEach(function (item) {
+    document.getElementById("techs").innerHTML +=
       `<div class="col-sm-3 technologies">
       <center><img class="techs" src="${item.image}"><br>
       ${item.name}</center>
       </div>`;
-    
+
   });
 };
