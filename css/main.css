@@ -1,17 +1,124 @@
-.navbar{
-	background-color: white;
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
-main {
-    /* margin-top: -70px;  */
-    margin-bottom: 100px;
-  }
+.navbar{
+    background-color: rgb(55, 55, 56);
+}
+.navbar-brand{
+    display: flex;
+}
+
+#jumbheader{
+    box-shadow: 5px 5px 2px lightgray;
+}
+.header-text{
+    margin: 0 auto;
+    padding-top: 10px;
+    font-weight: bold;
+    height: 50px;
+}
+
+.logo{
+    margin-top: 10px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: bold;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
 
 .jumbotron.jumbotron-fluid{
- background: white;
-}
+    background: white;
+    margin-top: 10px;
+
+   }
 .jumbotron.jumbotron-fluid img{
- background: white;
- width:100%;
- /* margin-top: 50px; */
+    background: white;
+    width:100%;
+   }
+
+main {
+    margin-bottom: 0px;
+    margin-top: -50px;
+    width: 120%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+
+.col-sm-3{
+    border: 1px solid lightgray;
+    border-radius:10px;
+    box-shadow: 2px 2px 2px lightgray;
+    margin: 10px;
+    margin-bottom: 25px;
+}
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+.card-img-top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+
+.col,
+[class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+.modal-body{
+    display: block;
+  }
+
+.modal-footer{
+    display: block;
+    text-align: center;
+  }
+
+  .modal-body img{
+    width: 50%;
+    height: 50%;
+    padding-bottom: 10px;
+  }
+
+
+.navbar.fixed-bottom.navbar-light.bg-light{
+    font-size: 1em;
+
+}
+
+
+@media (max-width: 600px) {
+    .jumbotron.jumbotron-fluid img{
+        background: white;
+        margin-top:30px;
+       }
+       .header-text{
+        margin: 0 auto;
+        height: 30px;
+       }
+       .header-text h2{
+        font-size: 1.5em;
+        margin-top: -10px;
+       }
+       .modal-body{
+        display: block;
+      }
+      .modal-content {
+        width: 100%;
+    }
+       .modal-body img{
+        width: 100%;
+        padding-bottom: 10px;
+        padding-right: 10px;
+      }
+      main {
+        margin-bottom: 100px;
+        margin-top: -50px;
+        width: 100%
+      }
+
 }
