@@ -31,7 +31,6 @@ html, body {
 .jumbotron.jumbotron-fluid{
     background: white;
     margin-top: 10px;
-
    }
 .jumbotron.jumbotron-fluid img{
     background: white;
@@ -39,9 +38,9 @@ html, body {
    }
 
 main {
-    margin-bottom: 0px;
-    margin-top: -50px;
-    width: 120%;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    width: 118%;
     overflow-y: hidden;
     overflow-x: hidden;
   }
@@ -53,6 +52,21 @@ main {
     margin: 10px;
     margin-bottom: 25px;
 }
+
+.col-sm-3.technologies{
+    border: none;
+    border-radius: none;
+    box-shadow: none;
+}
+
+.jumbotron.jumbotron-fluid.sm-width{
+    width: 85%;
+}
+.technos{
+    margin-top: -55px;
+    /* margin-bottom: 20px; */
+}
+
 .no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -84,6 +98,11 @@ main {
     padding-bottom: 10px;
   }
 
+.techs{
+    width: 80px;
+    margin: 20px;
+    /* margin-top: -50px; */
+  }
 
 .navbar.fixed-bottom.navbar-light.bg-light{
     font-size: 1em;
@@ -96,6 +115,9 @@ main {
         background: white;
         margin-top:30px;
        }
+       .jumbotron.jumbotron-fluid.sm-width{
+        width: 100%;
+    }
        .header-text{
         margin: 0 auto;
         height: 30px;

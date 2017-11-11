@@ -26,7 +26,7 @@ function cohortMembers(list){
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="cohortMember${item.id}Label">${item.fname} ${item.lname}</h5>
+           <h5 class="modal-title" id="cohortMember${item.id}Label">${item.fname} ${item.lname}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
@@ -44,6 +44,25 @@ function cohortMembers(list){
             </div>
           </div>
         </div>
+      </div>`;
+    
+  });
+};
+
+$.ajax({
+  url: "data/techs.json"
+}).done(techs)
+  .fail(function(error){
+    console.log("error", error);
+  });
+
+function techs(list){
+  let data = list.techs;
+  data.forEach(function(item){
+    document.getElementById("techs").innerHTML += 
+      `<div class="col-sm-3 technologies">
+      <center><img class="techs" src="${item.image}"><br>
+      ${item.name}</center>
       </div>`;
     
   });

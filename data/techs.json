@@ -1,0 +1,80 @@
+{
+	"techs": [
+		{
+			"name": "Javascript",
+			"image": "assets/images/techs/javascript.png"
+		},
+		{
+			"name": "Angular.js",
+			"image": "assets/images/techs/angularjs.png"
+		},
+		{
+			"name": "jQuery",
+			"image": "assets/images/techs/jquery.png"
+		},
+		{
+			"name": "Git",
+			"image": "assets/images/techs/git.png"
+		},
+		{
+			"name": "Github",
+			"image": "assets/images/techs/github.png"
+		},
+		{
+			"name": "Grunt",
+			"image": "assets/images/techs/grunt.png"
+		},
+		{
+			"name": "HTML5",
+			"image": "assets/images/techs/html5.png"
+		},
+		{
+			"name": "CSS3",
+			"image": "assets/images/techs/css3.png"
+		},
+		{
+			"name": "Sass",
+			"image": "assets/images/techs/sass.png"
+		},
+		{
+			"name": "Bootstrap",
+			"image": "assets/images/techs/bootstrap.png"
+		},
+		{
+			"name": "Browserify",
+			"image": "assets/images/techs/browserify.png"
+		},
+		{
+			"name": "Handlebars",
+			"image": "assets/images/techs/handlebars.png"
+        },
+        {
+			"name": "firebase",
+			"image": "assets/images/techs/firebase.png"
+        },
+        {
+			"name": "materialize",
+			"image": "assets/images/techs/materialize.png"
+        },
+        {
+			"name": "npm",
+			"image": "assets/images/techs/npm.png"
+        },
+        {
+			"name": "ruby",
+			"image": "assets/images/techs/ruby.png"
+        },
+        {
+			"name": "rails",
+			"image": "assets/images/techs/rails.png"
+        },
+        {
+			"name": "sqlite",
+			"image": "assets/images/techs/sqlite.png"
+        },
+        {
+			"name": "mysql",
+			"image": "assets/images/techs/mysql.png"
+		}
+	]
+}
