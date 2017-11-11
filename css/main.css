@@ -34,7 +34,7 @@ html, body {
 .jumbotron.jumbotron-fluid img{
     background: white;
     width:100%;
-    margin-top: -250px;
+    margin-top: -240px;
    }
 
 main {
@@ -110,6 +110,7 @@ main {
   }
 
 .navbar.fixed-bottom.navbar-light.bg-light{
+    margin-top:10px;
     font-size: 1em;
 
 }
