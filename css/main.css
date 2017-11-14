@@ -131,6 +131,9 @@ main {
     color: white;
 
 }
+button{
+    cursor: pointer;
+}
 
 
 @media (max-width: 600px) {
