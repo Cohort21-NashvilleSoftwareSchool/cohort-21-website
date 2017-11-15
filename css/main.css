@@ -53,6 +53,7 @@ main {
     overflow-y: hidden;
     overflow-x: hidden;
   }
+  
 .row{
     justify-content: center;
 }
