@@ -4,7 +4,7 @@
             "fname": "Teresa",
             "lname": "Vasquez",
             "reelthemin": "I am very passionate about leveling the playing field for adult learners regardless of disability and/or learning style...",
-            "copy": "<p><b>The code is strong with this Gryffindor!</b></p><p>I’m an educator and software developer with over 10 years of strategic leadership and project management experience. The most recent app I helped to develop was selected as a winning presentation for a local non-profit in a charitable hack-a-thon event. I’ve also created apps that help autistic adults overcome the challenges associated with socialization and adulthood.</p> <p>I am always excited about exploring creative, new opportunities in application and software development. I have already dedicated much of my career to innovating with educational technologies, strategies, and processes because I am very passionate about leveling the playing field for adult learners regardless of disability and/or learning style. I am especially passionate about helping those living with Autism to reach their fullest potential, which is why I became a developer.</p><p> Some of the techs in which I have become advanced: JavaScript, Ruby, Rails, SQL, Angular and Firebase.</p>",
+            "copy": "<p><b>The code is strong with this Gryffindor!</b></p><p>I’m an educator and software developer with over 10 years of strategic leadership and project management experience. The most recent app I helped to develop was selected as a winning presentation for a local non-profit in a charitable hack-a-thon event. I’ve also created apps that help autistic adults overcome the challenges associated with socialization and adulthood.</p> <p>I am always excited about exploring creative, new opportunities in software development. I have already dedicated much of my career to innovating with educational technologies, strategies, and processes because I am very passionate about leveling the playing field for adult learners regardless of disability and/or learning style. I am especially passionate about helping those living with Autism to reach their fullest potential, which is why I became a developer.</p><p> Some of the techs in which I have become advanced: JavaScript, Ruby, Rails, SQL, Angular and Firebase.</p>",
             "github": "https://github.com/drteresavasquez",
             "linkedin": "https://www.linkedin.com/in/drteresavasquez/",
             "portfolio": "http://www.drteresavasquez.com/",
@@ -107,8 +107,8 @@
             "id": 9,
             "fname": "LaKeshia",
             "lname": "Johnson",
-            "reelthemin": "Building web applications gives me a new ways to flex my creative muscles...",
-            "copy": "<p>I am a Tennessee native who enjoys creating things. I’ve always loved drawing, painting, arts & crafts. There’s a sense of satisfaction that I get from starting out with nothing, and turning it into something. After enrolling in the six month web development boot camp at Nashville Software school, I have found that I get that same feeling from coding. Building web applications gives me a new ways to flex my creative muscles, and challenges me to think outside the box. I am excited to continue my journey as a developer, and look forward creating new things with code.</p>",
+            "reelthemin": "Building web applications gives me a new way to flex my creative muscles...",
+            "copy": "<p>I am a Tennessee native who enjoys creating things. I’ve always loved drawing, painting, arts & crafts. There’s a sense of satisfaction that I get from starting out with nothing, and turning it into something. After enrolling in the six month web development boot camp at Nashville Software school, I have found that I get that same feeling from coding. Building web applications gives me a new way to flex my creative muscles, and challenges me to think outside the box. I am excited to continue my journey as a developer, and look forward creating new things with code.</p>",
             "github": "https://github.com/LaKeshiaJohnson",
             "linkedin": "http://www.linkedin.com/in/LaKeshiaJohnson",
             "portfolio": "https://lakeshiajohnson.github.io/portfolio/",
@@ -170,19 +170,32 @@
         },
         {
             "id": 14,
-            "fname": "Adam",
-            "lname": "White",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": " ",
-            "proimg": "assets/images/cohort_images/adam_pro.jpg",
-            "funimg": "assets/images/cohort_images/adam_fun.jpg"
+            "fname": "Matt",
+            "lname": "Brown",
+            "reelthemin": "I feel completely confident in my skills as a Junior Full Stack Web Developer and look forward to the next step in honing this craft...",
+            "copy": "<p>Being born and raised in Nashville, I have had the opportunity to watch this city explode in recent years. I knew I wanted to be a part of this thriving tech community. I have written code for several years but knew that I needed to take my skills to the next level by joining Nashville Software School. Now, six months later, I feel completely confident in my skills as a Junior Full Stack Web Developer and look forward to the next step in honing this craft. </p>",
+            "github": "https://github.com/mtallentb/",
+            "linkedin": "https://www.linkedin.com/in/mtallentb/",
+            "portfolio": "http://mttbrwn.com/",
+            "email": "mtallentb.design@gmail.com",
+            "proimg": "assets/images/cohort_images/mattb_pro.jpg",
+            "funimg": "assets/images/cohort_images/mattb_fun.jpg"
         },
         {
             "id": 15,
+            "fname": "Tyler",
+            "lname": "Barnett",
+            "reelthemin": "After 6 years in music/email marketing, I decided to take the plunge into the world of development...",
+            "copy": "<p>After 6 years in music/email marketing, I decided to take the plunge into the world of development. This field has provided me with an opportunity for learning and an outlet for creativity like I haven't known before and I can't wait to see where this path leads!</p>",
+            "github": "https://github.com/tylerb33",
+            "linkedin": "https://www.linkedin.com/in/tyler-barnett32/",
+            "portfolio": "www.tylerbar.net",
+            "email": "tyler.barnett7190@gmail.com",
+            "proimg": "assets/images/cohort_images/tyler_pro.jpg",
+            "funimg": "assets/images/cohort_images/tyler_fun.jpg"
+        },
+        {
+            "id": 16,
             "fname": "Austin",
             "lname": "Kurtis",
             "reelthemin": "",
@@ -193,19 +206,6 @@
             "email": " ",
             "proimg": "assets/images/cohort_images/austin_pro.jpg",
             "funimg": "assets/images/cohort_images/austin_fun.jpg"
-        },
-        {
-            "id": 16,
-            "fname": "Brooke",
-            "lname": "Wittenberg",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": " ",
-            "proimg": "assets/images/cohort_images/brooke_pro.jpg",
-            "funimg": "assets/images/cohort_images/brooke_fun.jpg"
         },
         {
             "id": 17,
@@ -261,16 +261,16 @@
         },
         {
             "id": 21,
-            "fname": "Matthew",
-            "lname": "Brown",
+            "fname": "Brooke",
+            "lname": "Wittenberg",
             "reelthemin": "",
             "copy": "<p></p>",
             "github": "",
             "linkedin": "",
             "portfolio": "",
             "email": " ",
-            "proimg": "assets/images/cohort_images/mattb_pro.jpg",
-            "funimg": "assets/images/cohort_images/mattb_fun.jpg"
+            "proimg": "assets/images/cohort_images/brooke_pro.jpg",
+            "funimg": "assets/images/cohort_images/brooke_fun.jpg"
         },
         {
             "id": 22,
@@ -313,16 +313,16 @@
         },
         {
             "id": 25,
-            "fname": "Tyler",
-            "lname": "Barnett",
+            "fname": "Adam",
+            "lname": "White",
             "reelthemin": "",
             "copy": "<p></p>",
             "github": "",
             "linkedin": "",
             "portfolio": "",
             "email": " ",
-            "proimg": "assets/images/cohort_images/tyler_pro.jpg",
-            "funimg": "assets/images/cohort_images/tyler_fun.jpg"
+            "proimg": "assets/images/cohort_images/adam_pro.jpg",
+            "funimg": "assets/images/cohort_images/adam_fun.jpg"
         }
     ]
 }

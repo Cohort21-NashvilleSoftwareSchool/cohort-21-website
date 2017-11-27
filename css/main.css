@@ -12,6 +12,9 @@ blockquote{
 .navbar{
     background-color: rgb(55, 55, 56);
 }
+.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
+    background: white !important;
+}
 .navbar-brand{
     display: flex;
 }
@@ -64,7 +67,7 @@ main {
     text-transform: uppercase;
 }
 
-.col-sm-3.cohortMems{
+.col-md-3.cohortMems{
     border: 1px solid lightgray;
     border-radius:10px;
     box-shadow: 2px 2px 2px lightgray;
@@ -137,7 +140,7 @@ button{
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
 
     body {
         background: url("../assets/images/bg.jpg") repeat;
