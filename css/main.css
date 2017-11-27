@@ -12,6 +12,9 @@ blockquote{
 .navbar{
     background-color: rgb(55, 55, 56);
 }
+.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
+    background: white !important;
+}
 .navbar-brand{
     display: flex;
 }
