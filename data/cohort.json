@@ -196,6 +196,19 @@
         },
         {
             "id": 16,
+            "fname": "Clayton",
+            "lname": "Massie",
+            "reelthemin": "Programing student at Nashville software school",
+            "copy": "<p>Programing student at Nashville software school</p>",
+            "github": "https://github.com/clmassie1",
+            "linkedin": "https://www.linkedin.com/in/clayton-massie-726427151/",
+            "portfolio": "http://claymassie.me/",
+            "email": "clmassie.1@gmail.com",
+            "proimg": "assets/images/avatar-1577909_960_720.png",
+            "funimg": "assets/images/avatar-1577909_960_720.png"
+        },
+        {
+            "id": 17,
             "fname": "Austin",
             "lname": "Kurtis",
             "reelthemin": "",
@@ -206,19 +219,6 @@
             "email": " ",
             "proimg": "assets/images/cohort_images/austin_pro.jpg",
             "funimg": "assets/images/cohort_images/austin_fun.jpg"
-        },
-        {
-            "id": 17,
-            "fname": "Fang-Wen",
-            "lname": "Shen",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": " ",
-            "proimg": "assets/images/cohort_images/fang_pro.jpg",
-            "funimg": "assets/images/cohort_images/fang_fun.jpg"
         },
         {
             "id": 18,
@@ -323,6 +323,19 @@
             "email": " ",
             "proimg": "assets/images/cohort_images/adam_pro.jpg",
             "funimg": "assets/images/cohort_images/adam_fun.jpg"
+        },
+        {
+            "id": 26,
+            "fname": "Fang-Wen",
+            "lname": "Shen",
+            "reelthemin": "",
+            "copy": "<p></p>",
+            "github": "",
+            "linkedin": "",
+            "portfolio": "",
+            "email": " ",
+            "proimg": "assets/images/cohort_images/fang_pro.jpg",
+            "funimg": "assets/images/cohort_images/fang_fun.jpg"
         }
     ]
 }
