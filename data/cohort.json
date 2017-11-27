@@ -1,7 +1,7 @@
 {
     "cohort": [{
             "id": 1,
-            "fname": "Dr. Teresa",
+            "fname": "Teresa",
             "lname": "Vasquez",
             "reelthemin": "I am very passionate about leveling the playing field for adult learners regardless of disability and/or learning style...",
             "copy": "<p><b>The code is strong with this Gryffindor!</b></p><p>I’m an educator and software developer with over 10 years of strategic leadership and project management experience. The most recent app I helped to develop was selected as a winning presentation for a local non-profit in a charitable hack-a-thon event. I’ve also created apps that help autistic adults overcome the challenges associated with socialization and adulthood.</p> <p>I am always excited about exploring creative, new opportunities in application and software development. I have already dedicated much of my career to innovating with educational technologies, strategies, and processes because I am very passionate about leveling the playing field for adult learners regardless of disability and/or learning style. I am especially passionate about helping those living with Autism to reach their fullest potential, which is why I became a developer.</p><p> Some of the techs in which I have become advanced: JavaScript, Ruby, Rails, SQL, Angular and Firebase.</p>",
@@ -9,8 +9,8 @@
             "linkedin": "https://www.linkedin.com/in/drteresavasquez/",
             "portfolio": "http://www.drteresavasquez.com/",
             "email": "dr.teresavasquez@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/teresa_pro.jpg",
+            "funimg": "assets/images/cohort_images/teresa_fun.jpg"
         },
         {
             "id": 2,
@@ -22,8 +22,8 @@
             "linkedin": "https://www.linkedin.com/in/nora-moser-74a608a2/",
             "portfolio": "https://noramoser.github.io/Portfolio/",
             "email": "noralmoser@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/nora_pro.jpg",
+            "funimg": "assets/images/cohort_images/nora_fun.jpg"
         },
         {
             "id": 3,
@@ -35,8 +35,8 @@
             "linkedin": "https://www.linkedin.com/in/eric-palmieri/",
             "portfolio": "https://palmierie.github.io/portfolio/",
             "email": "ericmpalmieri@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/eric_pro.jpg",
+            "funimg": "assets/images/cohort_images/eric_fun.jpg"
         },
         {
             "id": 4,
@@ -48,8 +48,8 @@
             "linkedin": "https://www.linkedin.com/in/dan-certa/",
             "portfolio": "http://www.dancerta.tech",
             "email": "daniel.certa.1228@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/danc_pro.jpg",
+            "funimg": "assets/images/cohort_images/danc_fun.jpg"
         },
         {
             "id": 5,
@@ -61,8 +61,8 @@
             "linkedin": "https://www.linkedin.com/in/jsheridanwells/",
             "portfolio": "http://www.jeremywells.org",
             "email": "jsheridanwells@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/jeremy_pro.jpg",
+            "funimg": "assets/images/cohort_images/jeremy_fun.jpg"
         },
         {
             "id": 6,
@@ -87,8 +87,8 @@
             "linkedin": "https://www.linkedin.com/in/daniel-greene-7a351bb3/",
             "portfolio": "http://www.danielbgreene.com",
             "email": " d.b.greene101@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/danielg_pro.jpg",
+            "funimg": "assets/images/cohort_images/danielg_fun.jpg"
         },
         {
             "id": 8,
@@ -113,8 +113,8 @@
             "linkedin": "http://www.linkedin.com/in/LaKeshiaJohnson",
             "portfolio": "https://lakeshiajohnson.github.io/portfolio/",
             "email": "ljohnson2k@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/lakeisha_pro.jpg",
+            "funimg": "assets/images/cohort_images/lakeisha_fun.jpg"
         },
         {
             "id": 10,
@@ -126,8 +126,8 @@
             "linkedin": "https://www.linkedin.com/in/jordan-berghofer/",
             "portfolio": "#",
             "email": "jordan.berghofer@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/jordan_pro.jpg",
+            "funimg": "assets/images/cohort_images/jordan_fun.jpg"
         },
         {
             "id": 11,
@@ -139,8 +139,8 @@
             "linkedin": "https://www.linkedin.com/in/jim-vickery-7199467/",
             "portfolio": "http://jimvickery.me",
             "email": "jimvickery3@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/jim_pro.jpg",
+            "funimg": "assets/images/cohort_images/jim_fun.jpg"
         },
         {
             "id": 12,
@@ -152,8 +152,8 @@
             "linkedin": "https://www.linkedin.com/in/beelarr/",
             "portfolio": "http://www.beelarr.me",
             "email": "bryonl@me.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/bryon_pro.jpg",
+            "funimg": "assets/images/cohort_images/bryon_fun.jpg"
         },
         {
             "id": 13,
@@ -165,8 +165,8 @@
             "linkedin": "https://www.linkedin.com/in/danielbbabcock/",
             "portfolio": "https://danielbabcock.github.io/",
             "email": "babcock.daniel.b@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
+            "proimg": "assets/images/cohort_images/danielb_pro.jpg",
+            "funimg": "assets/images/cohort_images/danielb_fun.jpg"
         },
         {
             "id": 14,
