@@ -67,7 +67,7 @@ main {
     text-transform: uppercase;
 }
 
-.col-sm-3.cohortMems{
+.col-md-3.cohortMems{
     border: 1px solid lightgray;
     border-radius:10px;
     box-shadow: 2px 2px 2px lightgray;
