@@ -170,19 +170,32 @@
         },
         {
             "id": 14,
-            "fname": "Adam",
-            "lname": "White",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": " ",
-            "proimg": "assets/images/cohort_images/adam_pro.jpg",
-            "funimg": "assets/images/cohort_images/adam_fun.jpg"
+            "fname": "Matt",
+            "lname": "Brown",
+            "reelthemin": "I feel completely confident in my skills as a Junior Full Stack Web Developer and look forward to the next step in honing this craft...",
+            "copy": "<p>Being born and raised in Nashville, I have had the opportunity to watch this city explode in recent years. I knew I wanted to be a part of this thriving tech community. I have written code for several years but knew that I needed to take my skills to the next level by joining Nashville Software School. Now, six months later, I feel completely confident in my skills as a Junior Full Stack Web Developer and look forward to the next step in honing this craft. </p>",
+            "github": "https://github.com/mtallentb/",
+            "linkedin": "https://www.linkedin.com/in/mtallentb/",
+            "portfolio": "http://mttbrwn.com/",
+            "email": "mtallentb.design@gmail.com",
+            "proimg": "assets/images/cohort_images/mattb_pro.jpg",
+            "funimg": "assets/images/cohort_images/mattb_fun.jpg"
         },
         {
             "id": 15,
+            "fname": "Tyler",
+            "lname": "Barnett",
+            "reelthemin": "After 6 years in music/email marketing, I decided to take the plunge into the world of development...",
+            "copy": "<p>After 6 years in music/email marketing, I decided to take the plunge into the world of development. This field has provided me with an opportunity for learning and an outlet for creativity like I haven't known before and I can't wait to see where this path leads!</p>",
+            "github": "https://github.com/tylerb33",
+            "linkedin": "https://www.linkedin.com/in/tyler-barnett32/",
+            "portfolio": "www.tylerbar.net",
+            "email": "tyler.barnett7190@gmail.com",
+            "proimg": "assets/images/cohort_images/tyler_pro.jpg",
+            "funimg": "assets/images/cohort_images/tyler_fun.jpg"
+        },
+        {
+            "id": 16,
             "fname": "Austin",
             "lname": "Kurtis",
             "reelthemin": "",
@@ -193,19 +206,6 @@
             "email": " ",
             "proimg": "assets/images/cohort_images/austin_pro.jpg",
             "funimg": "assets/images/cohort_images/austin_fun.jpg"
-        },
-        {
-            "id": 16,
-            "fname": "Brooke",
-            "lname": "Wittenberg",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": " ",
-            "proimg": "assets/images/cohort_images/brooke_pro.jpg",
-            "funimg": "assets/images/cohort_images/brooke_fun.jpg"
         },
         {
             "id": 17,
@@ -261,16 +261,16 @@
         },
         {
             "id": 21,
-            "fname": "Matthew",
-            "lname": "Brown",
+            "fname": "Brooke",
+            "lname": "Wittenberg",
             "reelthemin": "",
             "copy": "<p></p>",
             "github": "",
             "linkedin": "",
             "portfolio": "",
             "email": " ",
-            "proimg": "assets/images/cohort_images/mattb_pro.jpg",
-            "funimg": "assets/images/cohort_images/mattb_fun.jpg"
+            "proimg": "assets/images/cohort_images/brooke_pro.jpg",
+            "funimg": "assets/images/cohort_images/brooke_fun.jpg"
         },
         {
             "id": 22,
@@ -313,16 +313,16 @@
         },
         {
             "id": 25,
-            "fname": "Tyler",
-            "lname": "Barnett",
+            "fname": "Adam",
+            "lname": "White",
             "reelthemin": "",
             "copy": "<p></p>",
             "github": "",
             "linkedin": "",
             "portfolio": "",
             "email": " ",
-            "proimg": "assets/images/cohort_images/tyler_pro.jpg",
-            "funimg": "assets/images/cohort_images/tyler_fun.jpg"
+            "proimg": "assets/images/cohort_images/adam_pro.jpg",
+            "funimg": "assets/images/cohort_images/adam_fun.jpg"
         }
     ]
 }
