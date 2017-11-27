@@ -140,7 +140,7 @@ button{
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
 
     body {
         background: url("../assets/images/bg.jpg") repeat;
