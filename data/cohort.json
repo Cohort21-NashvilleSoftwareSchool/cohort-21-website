@@ -229,7 +229,7 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/hiatt_pro.jpg",
             "funimg": "assets/images/cohort_images/hiatt_fun.jpg"
         },
@@ -242,7 +242,7 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/jasmine_pro.jpg",
             "funimg": "assets/images/cohort_images/jasmine_fun.jpg"
         },
@@ -255,14 +255,14 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/malcolm_pro.jpg",
             "funimg": "assets/images/cohort_images/malcolm_fun.jpg"
         },
         {
             "id": 21,
-            "fname": "Austin",
-            "lname": "Kurtis",
+            "fname": "Brooke",
+            "lname": "Wittenberg",
             "reelthemin": "",
             "copy": "<p></p>",
             "github": "",
@@ -281,7 +281,7 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/mattm_pro.jpg",
             "funimg": "assets/images/cohort_images/mattm_fun.jpg"
         },
@@ -294,7 +294,7 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/micheal_pro.jpg",
             "funimg": "assets/images/cohort_images/micheal_fun.jpg"
         },
@@ -307,7 +307,7 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/ted_pro.jpg",
             "funimg": "assets/images/cohort_images/ted_fun.jpg"
         },
@@ -320,7 +320,7 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/adam_pro.jpg",
             "funimg": "assets/images/cohort_images/adam_fun.jpg"
         },
@@ -333,7 +333,7 @@
             "github": "",
             "linkedin": "",
             "portfolio": "",
-            "email": " ",
+            "email": "",
             "proimg": "assets/images/cohort_images/fang_pro.jpg",
             "funimg": "assets/images/cohort_images/fang_fun.jpg"
         }
