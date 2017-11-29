@@ -14,3 +14,4 @@ Clone the project and submit a PR
 
 ## Dev Team
 - [Dr. Teresa Vasquez](https://github.com/drteresavasquez)
+- [Jeremy Wells](https://github.com/jsheridanwells)
