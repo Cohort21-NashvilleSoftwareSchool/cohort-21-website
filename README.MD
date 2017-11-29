@@ -1,7 +1,7 @@
 # 21st Day Cohort of Nashville Software School
 
 Created with JavaScript, SASS, HTML, JSON
-[View Live Site](https://cohort21-nashvillesoftwareschool.github.io/cohort-21-website)
+- [View Live Site](https://cohort21-nashvillesoftwareschool.github.io/cohort-21-website)
 
 ## Clone the project
 ```
