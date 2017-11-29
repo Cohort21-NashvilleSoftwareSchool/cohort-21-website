@@ -209,16 +209,16 @@
         },
         {
             "id": 17,
-            "fname": "Austin",
-            "lname": "Kurtis",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": " ",
-            "proimg": "assets/images/cohort_images/austin_pro.jpg",
-            "funimg": "assets/images/cohort_images/austin_fun.jpg"
+            "fname": "Brooke",
+            "lname": "Wittenberg",
+            "reelthemin": "I am loving every 'ah ha' moment of coding from my first 'Hello World', to building and querying databases...",
+            "copy": "<p>A former EMT, my spine decided I should stop lifting human beings. So, I decided that a complete life refactoring was in order. </p><p>I had freelanced some WordPress web design, as well as some ad design for a non-profit and a couple of restaurants. I enjoyed delivering a finished product to the client almost as much as I loved tinkering on my computer. However, I found my lack of coding skills limiting. As I thought about a new career I ruminated on a stranger's advice about the Nashville Software School and her roommates new career as a developer. So, I applied to NSS.</p><p>I am loving every 'ah ha' moment of coding from my first 'Hello World', to building and querying databases. I discovered a knack for organization when I began flow-charting and Trello-boarding. Due to the way planning helped me to think about the code and file structures, it made me passionate about coding and the challenges it presents. Finally, building my capstone projects allowed me to solve real problems with the skills I am attaining; I find the tangible, clickable fruits of my labor truly rewarding.</p><p>Now, I ready to pursue my development career, bringing to the table a medical background and my passions for learning, planning, and refactoring.</p>",
+            "github": "https://github.com/brooksquil",
+            "linkedin": "http://www.linkedin.com/in/brooke-wittenberg-developer",
+            "portfolio": "http://www.brooksquil.github.io/portfolio-site-bpw",
+            "email": "bwittenberg.developer@gmail.com",
+            "proimg": "assets/images/cohort_images/brooke_pro.jpg",
+            "funimg": "assets/images/cohort_images/brooke_fun.jpg"
         },
         {
             "id": 18,
@@ -261,16 +261,16 @@
         },
         {
             "id": 21,
-            "fname": "Brooke",
-            "lname": "Wittenberg",
+            "fname": "Austin",
+            "lname": "Kurtis",
             "reelthemin": "",
             "copy": "<p></p>",
             "github": "",
             "linkedin": "",
             "portfolio": "",
             "email": " ",
-            "proimg": "assets/images/cohort_images/brooke_pro.jpg",
-            "funimg": "assets/images/cohort_images/brooke_fun.jpg"
+            "proimg": "assets/images/cohort_images/austin_pro.jpg",
+            "funimg": "assets/images/cohort_images/austin_fun.jpg"
         },
         {
             "id": 22,
