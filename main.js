@@ -17,7 +17,7 @@ function cohortMembers(list) {
           <div class="card-body">
             <h4 class="card-title title-font">${item.fname} ${item.lname}</h4>
             <p class="card-text">${item.reelthemin}</p>
-            <center><button type="button" class="btn btn-primary bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
+            <center><button type="button" class="btn btn-outline-primary btn-lg title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
            Meet ${item.fname}!
           </button></center>
           </div>
