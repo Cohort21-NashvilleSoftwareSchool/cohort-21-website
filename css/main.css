@@ -191,5 +191,8 @@ button{
         margin-top: -50px;
         width: 100%
       }
+      .navbar-brand img{
+        padding-right: none;
+      }
 
 }
