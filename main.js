@@ -1,4 +1,4 @@
-"use strict"
+"use strict";
 
 console.log("main.js, YO");
 
@@ -15,9 +15,9 @@ function cohortMembers(list) {
     document.getElementById("cohort").innerHTML += `<div class="col-md-3 cohortMems">
           <img class="card-img-top" src="${item.proimg}" alt="${item.fname} ${item.lname}">
           <div class="card-body">
-            <h4 class="card-title">${item.fname} ${item.lname}</h4>
+            <h4 class="card-title title-font">${item.fname} ${item.lname}</h4>
             <p class="card-text">${item.reelthemin}</p>
-            <center><button type="button" class="btn btn-primary bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
+            <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
            Meet ${item.fname}!
           </button></center>
           </div>
@@ -26,7 +26,7 @@ function cohortMembers(list) {
         <div class="modal-dialog" role="document">
           <div class="modal-content">
             <div class="modal-header">
-           <h5 class="modal-title" id="cohortMember${item.id}Label">${item.fname} ${item.lname}</h5>
+           <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.fname} ${item.lname}</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
@@ -36,11 +36,11 @@ function cohortMembers(list) {
             ${item.copy}
             </div>
             <div class="modal-footer">
-            <h4>Contact ${item.fname}</h4>
-            <a href="${item.portfolio}" target= "_blank"><img src="assets/images/portfolio.png"></a>
-              <a href="${item.github}"target= "_blank"><img src="assets/images/github.png"></a>
-              <a href="${item.linkedin}" target= "_blank"><img src="assets/images/linkedin.png"></a>
-              <a href="mailto:${item.email}" target= "_blank"><img src="assets/images/email.png"></a>
+            <h4 class="title-font">Contact ${item.fname}</h4>
+              ${createLink(item.portfolio, 'portfolio')}
+              ${createLink(item.github, 'github')}
+              ${createLink(item.linkedin, 'linkedin')}
+              ${createMailto(item.email, 'email')}
             </div>
           </div>
         </div>
@@ -48,6 +48,17 @@ function cohortMembers(list) {
 
   });
 };
+
+//checks to see if url string is empty, if not, creates specified image
+function createLink(urlString, img, mail) {
+  let link = urlString !== '' ? `<a href="${urlString}" target= "_blank"><img src="assets/images/${img}.png"></a>` : '<!-- -->';
+  return link
+};
+
+function createMailto(urlString, img) {
+  let link = urlString !== '' ? `<a href="mailto:${urlString}" target="_blank"><img src="assets/images/${img}.png"></a>` : '<!-- -->'
+  return link
+}
 
 $.ajax({
     url: "data/techs.json"

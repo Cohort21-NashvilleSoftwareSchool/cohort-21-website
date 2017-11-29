@@ -1,3 +1,13 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Barlow|Questrial');
+.title-font {
+  font-family: 'Questrial', sans-serif;
+}
+
+p {
+  font-family: 'Barlow', sans-serif;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -7,6 +17,8 @@ html, body {
 blockquote{
     margin-left: 40px;
     margin-right: 40px;
+    background-color: #ddd;
+    padding: 2em;
 }
 
 .navbar{
@@ -17,6 +29,9 @@ blockquote{
 }
 .navbar-brand{
     display: flex;
+}
+.nav-spacing {
+  margin-right: 2em;
 }
 
 #jumbheader{
@@ -56,7 +71,7 @@ main {
     overflow-y: hidden;
     overflow-x: hidden;
   }
-  
+
 .row{
     justify-content: center;
 }
