@@ -1,3 +1,13 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Barlow|Questrial');
+.title-font {
+  font-family: 'Questrial', sans-serif;
+}
+
+p {
+  font-family: 'Barlow', sans-serif;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
