@@ -13,7 +13,7 @@ function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
     document.getElementById("cohort").innerHTML += `<div class="col-md-3 cohortMems">
-          <img class="card-img-top" src="${item.proimg}" alt="${item.fname} ${item.lname}">
+          <img class="card-img-top" src="${item.proimg}" alt="${item.fname} ${item.lname}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
             <h4 class="card-title title-font">${item.fname} ${item.lname}</h4>
             <p class="card-text">${item.reelthemin}</p>
