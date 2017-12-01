@@ -42,7 +42,7 @@ function cohortMembers(list) {
               ${createLink(item.linkedin, 'linkedin')}
               ${createMailto(item.email, 'email')}
               <p><button type="button" data-dismiss="modal" class="btn btn-outline-primary title-font bottom" style="margin-top:20px" aria-label="Close">
-              Close
+              Back
             </button></p>
             </div>
           </div>
