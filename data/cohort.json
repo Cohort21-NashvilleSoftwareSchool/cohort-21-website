@@ -66,19 +66,6 @@
         },
         {
             "id": 6,
-            "fname": "Gilberto",
-            "lname": "Diaz",
-            "reelthemin": "The first time I fell in love with computers was in my high school years...",
-            "copy": "<p>I'm a native Puerto Rican, husband, father, military veteran, software developer, and data scientist from Nashville, TN. The first time I fell in love with computers was in my high school years, but it was not until I finished my service in the Military that I pursued a Bachelor of Science in Web Application Development and a Master of Science in Data Science. I have gained experience during my internship at WPC Healthcare where I crafted Data Science skills and enhanced my coding skills in Python, R, and Software Development.</p> <p>My work improved the outcome and confirmed the veracity of machine learning algorithms. I also participated in the LBMC Coding For A Cause Hackathon where my application was granted winner and deployed to production. The application will help Horse Haven of Tennessee to manage their daily operations. My technical skills are Python, R, Ruby, SQL, Data Mining, Data Analysis, Web Scraping, JavaScript, Angular, Git, Firebase.</p>",
-            "github": "https://github.com/diazgilberto",
-            "linkedin": "https://www.linkedin.com/in/diazgilberto/",
-            "portfolio": "https://gilbertodiaz.com",
-            "email": " gdiaz@gilbertodiaz.com",
-            "proimg": "assets/images/cohort_images/gilberto_pro.jpg",
-            "funimg": "assets/images/cohort_images/gilberto_pro.jpg"
-        },
-        {
-            "id": 7,
             "fname": "Daniel",
             "lname": "Greene",
             "reelthemin": "I love a challenge and I view coding as one of the most rewarding challenges I have ever taken on...",
@@ -89,6 +76,19 @@
             "email": " d.b.greene101@gmail.com",
             "proimg": "assets/images/cohort_images/danielg_pro.jpg",
             "funimg": "assets/images/cohort_images/danielg_fun.jpg"
+        },
+        {
+            "id": 7,
+            "fname": "Austin",
+            "lname": "Kurtis",
+            "reelthemin": "Curiosity has been and always will be my motivation to learn. Passion for life and technology is what drives me forward.",
+            "copy": "<p>From a time long before I can remember, I have always been fascinated with pushing buttons and playing with technology. That fascination was strengthened when I was seven years old and broke my leg one winter. My inability to play outside at recess lead my first deep dive into computers. Our school had just purchased 2 machines for each class with no real training to the staff. My teacher asked if I would be willing to learn about how the system worked and when comfortable, give each student a lesson.. Little did I know, this was the pivotal moment that would forever shape the course of my future in technology and in my love for teaching.</p><p>Somewhere along my journey, technology mixed with digital video, art and creation became my focus. I had a passion for computer hardware and building new computers for friends, family and as a personal hobby. I built myself a computer at fifteen to learn and use for Photoshop, Illustrator and Premiere. I also had an interest in 3D modeling and architecture that drove my creativity.</p><p>After receiving an AA in Computer Animation and a BS in Visual Effects and Motion Graphics, I followed my passion for 3D and architecture. For almost 2 years I created 3D models of houses for many of the largest builders until the housing market collapse.</p><p>After my short-lived 3D career, I became an integral part of the advertising creative department at Bright House Networks (now Spectrum Reach). For almost a decade, I was designing, producing and deploying thousands of television and digital commercials and graphics. My work included national and local advertisers to be exclusively aired across our news channel properties in Tampa and Orlando.</p><p>Throughout my life I had always maintained that I wanted to go back to school to pursue a career in software engineering.  My curiosity for how to make new technology not just to make things pretty is a big life goal. The opportunity presented itself shortly after relocating to Nashville. Other than my wife, I knew no one in town so I sought out to meet people and get involved somewhere. I went to my first MeetUp, Developer Launchpad, with the goal of finding out where to start learning and to make friends. The people from that group were very friendly and extremely helpful pointing me in all of the right places. They suggested Nashville Software School and encouraged me to volunteer for Music City Code. I heeded their advice and did both. I learned very quickly that software development industry is a great community of people, willing to help everyone and anyone succeed. Getting involved in the community has been a great pride in my recent life and source of positivity that moves me forward. From everything I have learned, I know that this is where I belong, where I will grow, and where I will succeed.</p>",
+            "github": "https://github.com/austinKurtis",
+            "linkedin": "https://www.linkedin.com/in/austinkurtis",
+            "portfolio": "http://austinkurtis.com",
+            "email": "austin.jay.kurtis@gmail.com",
+            "proimg": "assets/images/cohort_images/austin_pro.jpg",
+            "funimg": "assets/images/cohort_images/austin_fun.jpg"
         },
         {
             "id": 8,
@@ -248,29 +248,29 @@
         },
         {
             "id": 20,
-            "fname": "Clayton",
-            "lname": "Massie",
-            "reelthemin": "Programming student at Nashville software school",
-            "copy": "<p>Programming student at Nashville software school</p>",
-            "github": "https://github.com/clmassie1",
-            "linkedin": "https://www.linkedin.com/in/clayton-massie-726427151/",
-            "portfolio": "http://claymassie.me/",
-            "email": "clmassie.1@gmail.com",
-            "proimg": "assets/images/avatar-1577909_960_720.png",
-            "funimg": "assets/images/avatar-1577909_960_720.png"
-        },
-        {
-            "id": 21,
-            "fname": "Austin",
-            "lname": "Kurtis",
+            "fname": "Ted",
+            "lname": "Collins",
             "reelthemin": "",
             "copy": "<p></p>",
             "github": "",
             "linkedin": "",
             "portfolio": "",
             "email": "",
-            "proimg": "assets/images/cohort_images/austin_pro.jpg",
-            "funimg": "assets/images/cohort_images/austin_fun.jpg"
+            "proimg": "assets/images/cohort_images/ted_pro.jpg",
+            "funimg": "assets/images/cohort_images/ted_fun.jpg"
+        },
+        {
+            "id": 21,
+            "fname": "Hiatt",
+            "lname": "Collins",
+            "reelthemin": "",
+            "copy": "<p></p>",
+            "github": "",
+            "linkedin": "",
+            "portfolio": "",
+            "email": "",
+            "proimg": "assets/images/cohort_images/hiatt_pro.jpg",
+            "funimg": "assets/images/cohort_images/hiatt_fun.jpg"
         },
         {
             "id": 22,
@@ -300,17 +300,16 @@
         },
         {
             "id": 24,
-            "fname": "Hiatt",
-            "lname": "Collins",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": "",
-            "proimg": "assets/images/cohort_images/hiatt_pro.jpg",
-            "funimg": "assets/images/cohort_images/hiatt_fun.jpg"
-
+            "fname": "Clayton",
+            "lname": "Massie",
+            "reelthemin": "Programming student at Nashville software school",
+            "copy": "<p>Programming student at Nashville software school</p>",
+            "github": "https://github.com/clmassie1",
+            "linkedin": "https://www.linkedin.com/in/clayton-massie-726427151/",
+            "portfolio": "http://claymassie.me/",
+            "email": "clmassie.1@gmail.com",
+            "proimg": "assets/images/avatar-1577909_960_720.png",
+            "funimg": "assets/images/avatar-1577909_960_720.png"
         },
         {
             "id": 25,
@@ -327,16 +326,17 @@
         },
         {
             "id": 26,
-            "fname": "Ted",
-            "lname": "Collins",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": "",
-            "proimg": "assets/images/cohort_images/ted_pro.jpg",
-            "funimg": "assets/images/cohort_images/ted_fun.jpg"
+            "fname": "Gilberto",
+            "lname": "Diaz",
+            "reelthemin": "The first time I fell in love with computers was in my high school years...",
+            "copy": "<p>I'm a native Puerto Rican, husband, father, military veteran, software developer, and data scientist from Nashville, TN. The first time I fell in love with computers was in my high school years, but it was not until I finished my service in the Military that I pursued a Bachelor of Science in Web Application Development and a Master of Science in Data Science. I have gained experience during my internship at WPC Healthcare where I crafted Data Science skills and enhanced my coding skills in Python, R, and Software Development.</p> <p>My work improved the outcome and confirmed the veracity of machine learning algorithms. I also participated in the LBMC Coding For A Cause Hackathon where my application was granted winner and deployed to production. The application will help Horse Haven of Tennessee to manage their daily operations. My technical skills are Python, R, Ruby, SQL, Data Mining, Data Analysis, Web Scraping, JavaScript, Angular, Git, Firebase.</p>",
+            "github": "https://github.com/diazgilberto",
+            "linkedin": "https://www.linkedin.com/in/diazgilberto/",
+            "portfolio": "https://gilbertodiaz.com",
+            "email": " gdiaz@gilbertodiaz.com",
+            "proimg": "assets/images/cohort_images/gilberto_pro.jpg",
+            "funimg": "assets/images/cohort_images/gilberto_pro.jpg"
+            
         }
     ]
 }
