@@ -248,32 +248,6 @@
         },
         {
             "id": 20,
-            "fname": "Ted",
-            "lname": "Pennington",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": "",
-            "proimg": "assets/images/cohort_images/ted_pro.jpg",
-            "funimg": "assets/images/cohort_images/ted_fun.jpg"
-        },
-        {
-            "id": 21,
-            "fname": "Hiatt",
-            "lname": "Collins",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": "",
-            "proimg": "assets/images/cohort_images/hiatt_pro.jpg",
-            "funimg": "assets/images/cohort_images/hiatt_fun.jpg"
-        },
-        {
-            "id": 22,
             "fname": "Jasmine",
             "lname": "Quach",
             "reelthemin": "As a natural tinkerer, I can't stop creating in some form or way. I can't stop until I have figured it out.",
@@ -284,6 +258,33 @@
             "email": "xjasminequach@gmail.com",
             "proimg": "assets/images/cohort_images/jasmine_pro.jpg",
             "funimg": "assets/images/cohort_images/jasmine_fun.jpg"
+        },
+        {
+            "id": 21,
+            "fname": "Adam",
+            "lname": "White",
+            "reelthemin": "The more I dev, the more I want to dev.",
+            "copy": "<p> While on the job, introduced to product analysis and management, working alongside programmers and data analysts, exploring the modern environment of open source code and nimble new frameworks, I found myself in a field of endless fascination. I was hooked! Equipped with my new education, I'm seeking the right development group, in a domain that we believe in, where we may learn, prosper, and grow together to positively impact the Nashville community and beyond.</p>",
+            "github": "https://github.com/adamdwhite",
+            "linkedin": "https://www.linkedin.com/in/adam-d-white-aba9336/",
+            "portfolio": "https://www.adamdwhite.com",
+            "email": "adamwhite82@gmail.com",
+            "proimg": "assets/images/cohort_images/adam_pro.jpg",
+            "funimg": "assets/images/cohort_images/adam_fun.jpg"
+            
+        },
+        {
+            "id": 22,
+            "fname": "Ted",
+            "lname": "Pennington",
+            "reelthemin": "",
+            "copy": "<p></p>",
+            "github": "",
+            "linkedin": "",
+            "portfolio": "",
+            "email": "",
+            "proimg": "assets/images/cohort_images/ted_pro.jpg",
+            "funimg": "assets/images/cohort_images/ted_fun.jpg"
         },
         {
             "id": 23,
@@ -313,16 +314,16 @@
         },
         {
             "id": 25,
-            "fname": "Adam",
-            "lname": "White",
-            "reelthemin": "The more I dev, the more I want to dev.",
-            "copy": "<p> While on the job, introduced to product analysis and management, working alongside programmers and data analysts, exploring the modern environment of open source code and nimble new frameworks, I found myself in a field of endless fascination. I was hooked! Equipped with my new education, I'm seeking the right development group, in a domain that we believe in, where we may learn, prosper, and grow together to positively impact the Nashville community and beyond.</p>",
-            "github": "https://github.com/adamdwhite",
-            "linkedin": "https://www.linkedin.com/in/adam-d-white-aba9336/",
-            "portfolio": "https://www.adamdwhite.com",
-            "email": "adamwhite82@gmail.com",
-            "proimg": "assets/images/cohort_images/adam_pro.jpg",
-            "funimg": "assets/images/cohort_images/adam_fun.jpg"
+            "fname": "Hiatt",
+            "lname": "Collins",
+            "reelthemin": "",
+            "copy": "<p></p>",
+            "github": "",
+            "linkedin": "",
+            "portfolio": "",
+            "email": "",
+            "proimg": "assets/images/cohort_images/hiatt_pro.jpg",
+            "funimg": "assets/images/cohort_images/hiatt_fun.jpg"
         },
         {
             "id": 26,
