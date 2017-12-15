@@ -271,7 +271,7 @@
             "email": "adamwhite82@gmail.com",
             "proimg": "assets/images/cohort_images/adam_pro.jpg",
             "funimg": "assets/images/cohort_images/adam_fun.jpg"
-            
+
         },
         {
             "id": 22,
@@ -316,12 +316,12 @@
             "id": 25,
             "fname": "Hiatt",
             "lname": "Collins",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": "",
+            "reelthemin": "Learning to code has been an exhilarating exercise in studying a craft that will allow me to match a new career with my lifelong interests...",
+            "copy": "<p>I have always loved building things.  From Legos as a child up to building musical instruments and audio electronics as an adult, I have had an abiding interest in learning how things work.  I pursued law as a career, and after a number of years of practicing as an attorney, I began attending technology networking events in Nashville with an eye towards developing a technology law practice.  Very quickly I discovered that, rather than wanting to represent the technology community in Nashville, I wanted to be a part of it as a software developer!  Learning to code has been an exhilarating exercise in studying a craft that will allow me to match a new career with my lifelong interests.  I'm excited to combine the knowledge I have gained at Nashville Software School with the skills I acquired solving business problems through the law, and to apply both to solve business problems with technology.</p>",
+            "github": "https://github.com/hiattcollins",
+            "linkedin": "https://www.linkedin.com/in/hiatt-collins",
+            "portfolio": "http://www.hiattcollins.com",
+            "email": "hiatt.collins@gmail.com",
             "proimg": "assets/images/cohort_images/hiatt_pro.jpg",
             "funimg": "assets/images/cohort_images/hiatt_fun.jpg"
         },
@@ -337,7 +337,7 @@
             "email": " gdiaz@gilbertodiaz.com",
             "proimg": "assets/images/cohort_images/gilberto_pro.jpg",
             "funimg": "assets/images/cohort_images/gilberto_pro.jpg"
-            
+
         }
     ]
 }
