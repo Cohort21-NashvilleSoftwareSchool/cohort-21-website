@@ -1,5 +1,6 @@
 {
-    "cohort": [{
+    "cohort": [
+        {
             "id": 1,
             "fname": "Dr. Teresa",
             "lname": "Vasquez",
@@ -271,7 +272,6 @@
             "email": "adamwhite82@gmail.com",
             "proimg": "assets/images/cohort_images/adam_pro.jpg",
             "funimg": "assets/images/cohort_images/adam_fun.jpg"
-            
         },
         {
             "id": 22,
@@ -290,12 +290,12 @@
             "id": 23,
             "fname": "Malcolm",
             "lname": "Ford",
-            "reelthemin": "",
-            "copy": "<p></p>",
-            "github": "",
-            "linkedin": "",
-            "portfolio": "",
-            "email": "",
+            "reelthemin": "My love for coding grew out of a trip to the Arctic.",
+            "copy": "<p>At the end on my junior year in high school, I was presented with the oppertunity to travel to the Arctic. It was a two week exhibition. During my time there, I felt free and happy, yet dreadful. Dreadful because I knew that at the end of the expedition, I would have to go back to my normal life. I knew that feeling of absolute freedom would end, and when I returned home, it did. I told my dad how I felt, and he gave me a piece of advice that I use every day. He said, 'The only way to find true freedom and happyness, is to follw your dreams.' From that moment on, I knew two things. The first is that had no choice but to follow my dreams of becoming a programmer and second, I had to do it on my terms. During the second semester of my senior year, I applied to Nashville Software School and to my suprise, I was accepted. So immediately following my high school graduation, I packed my bags, kissed my mom good-bye, and headed stright for Nashville. </p>",
+            "github": "https://github.com/MalcolmFord",
+            "linkedin": "https://www.linkedin.com/in/malcolm-f-3a9ba8102/",
+            "portfolio": "https://malcolmford.github.io/portfolio_site/",
+            "email": "malcolmf38@gmail.com",
             "proimg": "assets/images/cohort_images/malcolm_pro.jpg",
             "funimg": "assets/images/cohort_images/malcolm_fun.jpg"
         },
@@ -337,7 +337,6 @@
             "email": " gdiaz@gilbertodiaz.com",
             "proimg": "assets/images/cohort_images/gilberto_pro.jpg",
             "funimg": "assets/images/cohort_images/gilberto_pro.jpg"
-            
         }
     ]
 }
